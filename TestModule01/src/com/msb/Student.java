@@ -6,8 +6,8 @@ package com.msb;
  * @Description: com.msb
  * @version: 1.0
  */
-public class Studnet {
-    public static void main(String[] args) {
-
-    }
+public class Student {
+    private int age;
+    private String name;
+    private String sex;
 }
